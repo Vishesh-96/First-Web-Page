@@ -1,0 +1,20 @@
+#title {
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    color:brown;
+    margin: 50px;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(10, 40, 60);
+}
+
+a:hover {
+    text-decoration: underline;
+}

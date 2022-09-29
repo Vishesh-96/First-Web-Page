@@ -1,0 +1,64 @@
+#title {
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    color:brown;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    border-radius: 4px;
+    color: grey;
+    background-color: black;
+    font-size: 24px;
+    padding: 10px 48px;
+    margin: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#desciprtion {
+   margin-bottom: 36px; 
+}
+
+li {
+    background-color: rgb(223, 136, 124);
+    border-radius: 6px;
+    margin: 10px;
+    padding : 18px;
+}
+
+ol {
+    list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+}
+
+h1 {
+    font-size: 48px;
+    color: rgb(71, 62, 62);
+    padding : 12px;
+    margin : 12px;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    color: rgb(78, 13, 5);
+}
+
+main p {
+    margin: 12px;
+    color: rgb(71, 29, 22);
+}
+
+.daily-goal-highlight {
+    background-color: rgb(224, 115, 77);
+    font: 'Oswald';
+}
